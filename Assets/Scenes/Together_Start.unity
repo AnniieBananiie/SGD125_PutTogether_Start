@@ -241,7 +241,7 @@ GameObject:
   - component: {fileID: 217637248}
   - component: {fileID: 217637247}
   m_Layer: 0
-  m_Name: NaveMesh
+  m_Name: NavMesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
